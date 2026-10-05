@@ -1,8 +1,9 @@
+```
        へ     ♡ ╱|、
     ૮ -  ՛)    (`  - 7
-    /  ⁻ ៸|     |、⁻〵
-乀 (ˍ, ل ل     じしˍ,)ノ
-
+    / ⁻ ៸|     |、⁻ 〵
+乀 (ˍ, ل ل     じしˍ,ˍ)ノ
+```
 # hi, i'm nifty :3
 
 > just a silly dragon/dog who makes silly software
