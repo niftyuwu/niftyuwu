@@ -1,16 +1,19 @@
-## Hi there 👋
+       へ     ♡ ╱|、
+    ૮ -  ՛)    (`  - 7
+    /  ⁻ ៸|     |、⁻〵
+乀 (ˍ, ل ل     じしˍ,)ノ
 
-<!--
-**niftyuwu/niftyuwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# hi, i'm nifty :3
 
-Here are some ideas to get you started:
+> just a silly dragon/dog who makes silly software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐾 furry
+- 💻 programmer
+- ⛏️ Minecraft enjoyer
+- 🎮 professional silly guy
+
+## what i do
+
+- 🧸 cute little plugins for minecraft
+- 🐕 random silly projects
+- 🛠️ things that probably didn't need to exist
