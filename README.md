@@ -9,7 +9,7 @@
 > just a silly dragon/dog who makes silly software
 
 - 🐾 Furry
-- 💻 Learning how to code
+- 💻 Learning to code
 - ⛏️ Minecraft enjoyer
 
 ## what i do
